@@ -5,33 +5,29 @@ Construindo um Clone Netflix Fullstack com React, NextJS, TailwindCSS e Prism
 
 Características:
 
-- Environment, Typescript, NextJS Setup
-- MongoDB & Prisma connect, Database creation
-- Authentication with NextAuth, Google & Github Login
-- Full responsiveness on all pages
-- Cookie based authentication
-- API and Controllers creation
-- Detail-oriented effects and animations using TailwindCSS
-- React SWR data fetching
-- Zustand state management
+- Ambiente, Typescript, Configuração do NextJS
+- MongoDB e Prisma connect, criação de banco de dados
+- Autenticação com Next Auth
+- Criação de API e Controllers
+- Efeitos e animações usando TailwindCSS
 
-### Prerequisites
+### Pré-requisitoS
 
 **Node version 14.x**
 
-### Cloning the repository
+###Clonar Repositório
 
 ```shell
-git clone https://github.com/AntonioErdeljac/next-netflix-tutorial.git
+git clone gh repo clone danielqueirozc/netflix-clone
 ```
 
-### Install packages
+### Instalar pacotes
 
 ```shell
 npm i
 ```
 
-### Setup .env file
+### Arquivo .env
 
 
 ```js
@@ -44,7 +40,7 @@ NEXTAUTH_JWT_SECRET=
 NEXTAUTH_SECRET=
 ```
 
-### Start the app
+### Iniciar a Aplicação
 
 ```shell
 npm run dev
