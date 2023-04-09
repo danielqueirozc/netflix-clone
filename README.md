@@ -50,10 +50,10 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 ## 🚀 Como executar o projeto.
 
 # Clone este repositório
-$ https://github.com/JoaoAlberto20/ignite-shop.git
+$ https://github.com/danielqueirozc/netflix-clone.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd + sua pasta +gh repo clone danielqueirozc/netflix-clone
+$ cd + sua pasta + git clone  https://github.com/danielqueirozc/netflix-clone.git
 
 # Instale as dependências com:
 $ npm i
