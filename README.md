@@ -3,7 +3,7 @@ Construindo um Clone Netflix Fullstack com React, NextJS, TailwindCSS e Prism
 ![image](https://user-images.githubusercontent.com/23248726/220005380-ede4fb14-0b8d-4582-a063-3cc4beeccfb7.png)
 
 
-Features:
+Características:
 
 - Environment, Typescript, NextJS Setup
 - MongoDB & Prisma connect, Database creation
