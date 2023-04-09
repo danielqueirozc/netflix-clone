@@ -8,32 +8,16 @@
 	 Status:  Finalizado
 </h4>
 
-
-
-![Preview](<h1 align="center">
-    <a href="#"> Ignite Shop </a>
-</h1>
-
-<p align="center"> Sua loja digital.. </p>
-
 <h4 align="center"> 
 	 Status:  Finalizado
 </h4>
 
-<p align="center">
- <a href="#-about">About</a> •
- <a href="#-layout">Layout</a> • 
- <a href="#-tech-stack">Tech Stack</a> • 
- <a href="#-author">Author</a> • 
- <a href="#-license">License</a>
-
-</p>
 
 ![Preview](https://user-images.githubusercontent.com/23248726/220005380-ede4fb14-0b8d-4582-a063-3cc4beeccfb7.png)
 
 ## 💻 Sobre:
 
-O aplicativo que desenvolvI é um clone do serviço de streaming Netflix
+O aplicativo que desenvolvI é um clone do serviço de streaming Netflix.
 Neste desafio foram abordados os seguintes temas:
 
 - MongoDB e Prisma connect, criação de banco de dados
@@ -57,7 +41,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - Prisma
 - MongoDB
 - axios
-- TypeScript
 ---
 
 
@@ -70,14 +53,14 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 $ https://github.com/JoaoAlberto20/ignite-shop.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd + sua pasta + git clone git@github.com:JoaoAlberto20/ignite-shop.git
+$ cd + sua pasta +gh repo clone danielqueirozc/netflix-clone
 
 # Instale as dependências com:
-$ npm install
+$ npm i
 
 # Rode a aplicação em modo de desenvolvimento:
 $ npm run dev
-
+ 
 # O servidor inciará na porta:3000 - acesse <   localHost:3000
 ```
 ---
@@ -90,7 +73,6 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 <br>
 
-#### 🎲 Rodando a aplicação (Frontend) 
 
 ```bash
 
